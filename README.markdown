@@ -1,6 +1,6 @@
-# Mujina - Japanese literary notation markup language
+# Hearn - Literary notation markup language
 
-Mujina is a markup language; for Japanese literary notations.
+Hearn is a markup language; for literary notations.
 
 >  "He! Was it anything like THIS that she showed you?" cried the soba-man, stroking his own face—which therewith became like unto an Egg... And, simultaneously, the light went out.
 > -- "MUJINA" by Lafcadio Hearn from [KWAIDAN: Stories and Studies of Strange Things](http://www.gutenberg.org/files/1210/1210-h/1210-h.htm)
