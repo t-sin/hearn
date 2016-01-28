@@ -28,14 +28,18 @@ Hearnでは両者を区別し、内容としての改行を扱う。
 Newlineの項を見よ。
 ```
 
-### Title / Part / Chapter / Section
+### Part / Chapter / Section / Subsection
 
 ```
-# Title
+# 第一部
 
-## Part One
+## 第一章
 
-This is a body.
+### 第一節
+
+#### 第一項
+
+以下、本文がつづく。
 ```
 
 ### Lists
